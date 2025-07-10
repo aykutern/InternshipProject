@@ -1,7 +1,7 @@
 package com.example.InternshipProject.services.concretes;
 
-import com.example.InternshipProject.services.abstracts.InternService.InternService;
-import com.example.InternshipProject.services.dtos.requests.InternRequest.CreateInternRequest;
+import com.example.InternshipProject.services.abstracts.InternService;
+import com.example.InternshipProject.services.dtos.requests.CreateInternRequest;
 import org.springframework.stereotype.Service;
 import com.example.InternshipProject.entities.concretes.Intern;
 import com.example.InternshipProject.repositories.InternRepository;

@@ -1,4 +1,4 @@
-package com.example.InternshipProject.services.dtos.requests.InternRequest;
+package com.example.InternshipProject.services.dtos.requests;
 
 import lombok.Data;
 

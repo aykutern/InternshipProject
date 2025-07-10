@@ -1,7 +1,7 @@
-package com.example.InternshipProject.services.abstracts.InternService;
+package com.example.InternshipProject.services.abstracts;
 
 import com.example.InternshipProject.entities.concretes.Intern;
-import com.example.InternshipProject.services.dtos.requests.InternRequest.CreateInternRequest;
+import com.example.InternshipProject.services.dtos.requests.CreateInternRequest;
 
 
 public interface InternService {
